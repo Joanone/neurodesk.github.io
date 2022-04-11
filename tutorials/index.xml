@@ -807,7 +807,7 @@ Twitter: &lt;a href="https://twitter.com/sbollmann_MRI">@sbollmann_MRI&lt;/a>&lt
 &lt;p>&lt;img src="https://user-images.githubusercontent.com/4021595/155106388-72a691a4-c0a4-4cc6-a2ac-c9271888b82d.png" alt="image">&lt;/p>
 &lt;blockquote>
 &lt;p>Please note that the demo dataset does not have a T1w scan for anatomical segmentation and therefore the subsequent steps in QSMxT (e.g. &lt;code>python3 /opt/QSMxT/run_3_segment.py 01_bids 03_segmentation&lt;/code>) will NOT work.&lt;/p>
-&lt;/blockquote></description></item><item><title>Tutorials: Structural_connectivity_dMRI</title><link>https://Joanone/neurodesk.github.io/tutorials/structural_imaging/structuralconnectivity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Joanone/neurodesk.github.io/tutorials/structural_imaging/structuralconnectivity/</guid><description>
+&lt;/blockquote></description></item><item><title>Tutorials: Structural connectivity dMRI</title><link>https://Joanone/neurodesk.github.io/tutorials/structural_imaging/structuralconnectivity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Joanone/neurodesk.github.io/tutorials/structural_imaging/structuralconnectivity/</guid><description>
 &lt;blockquote>
 &lt;p>&lt;em>This tutorial was created by Joan Amos.&lt;/em>&lt;/p>
 &lt;p>Email: &lt;a href="mailto:joan@std.uestc.edu.cn">joan@std.uestc.edu.cn&lt;/a>
@@ -819,18 +819,18 @@ Github: @Joanone&lt;/p>
 &lt;a href="https://andysbrainbook.readthedocs.io/en/latest/MRtrix/MRtrix_Course/MRtrix_00_Diffusion_Overview.html">https://andysbrainbook.readthedocs.io/en/latest/MRtrix/MRtrix_Course/MRtrix_00_Diffusion_Overview.html&lt;/a>
 &lt;a href="https://mrtrix.readthedocs.io/en/latest/quantitative_structural_connectivity/structural_connectome.html">https://mrtrix.readthedocs.io/en/latest/quantitative_structural_connectivity/structural_connectome.html&lt;/a>&lt;/p>
 &lt;h2 id="data-description">Data Description&lt;/h2>
-&lt;h2 id="reference">Reference:&lt;/h2>
+&lt;h3 id="reference">Reference:&lt;/h3>
 &lt;p>The single subject data used in this tutorial has been preprocessed and was downloaded from:&lt;/p>
 &lt;p>&lt;a href="https://db.humanconnectome.org/">https://db.humanconnectome.org/&lt;/a>&lt;/p>
 &lt;p>100307_3T_Structural_preproc.zip
 100307_3T_Diffusion_preproc.zip&lt;/p>
-&lt;h2 id="download-demo-data">Download demo data:&lt;/h2>
+&lt;h3 id="download-demo-data">Download demo data:&lt;/h3>
 &lt;p>&lt;a href="https://1drv.ms/u/s!AjZJgBZ_P9UO8nWvAFwQyKQnrroe?e=6qmRlQ">https://1drv.ms/u/s!AjZJgBZ_P9UO8nWvAFwQyKQnrroe?e=6qmRlQ&lt;/a> - Diffusion data
 &lt;a href="https://1drv.ms/u/s!AjZJgBZ_P9UO8nblYQyUVsibqggs?e=mkwLpQ">https://1drv.ms/u/s!AjZJgBZ_P9UO8nblYQyUVsibqggs?e=mkwLpQ&lt;/a> - Structural data&lt;/p>
-&lt;h2 id="required-structural-preprocessed-input-files">Required structural preprocessed input files&lt;/h2>
+&lt;h3 id="required-structural-preprocessed-input-files">Required structural preprocessed input files&lt;/h3>
 &lt;p>aparc+aseg.nii.gz
 T1w_acpc_dc_restore_brain.nii.gz&lt;/p>
-&lt;h2 id="required-diffusion-preprocessed-input-files">Required diffusion preprocessed input files&lt;/h2>
+&lt;h3 id="required-diffusion-preprocessed-input-files">Required diffusion preprocessed input files&lt;/h3>
 &lt;p>bvals
 bvecs
 data.nii.gz&lt;/p>
